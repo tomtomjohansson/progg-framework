@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+.red {
+  color: red;
+}
+
+.standardMargin {
+  margin-top: 40px;
+}
+
+.action {
+  color: blue;
+  cursor: pointer;
+}
+
+button {
+  display: block;
+  margin-bottom: 8px;
+}
